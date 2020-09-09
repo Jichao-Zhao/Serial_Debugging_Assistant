@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\chuankou\chuankou\bin\Debug\chuankou.exe
+C:\Users\Administrator\source\repos\chuankou\chuankou\bin\Debug\chuankou.pdb
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.Form1.resources
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.Properties.Resources.resources
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.exe
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.pdb
+C:\Users\Administrator\source\repos\chuankou\chuankou\bin\Debug\chuankou.exe.manifest
+C:\Users\Administrator\source\repos\chuankou\chuankou\bin\Debug\chuankou.application
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.exe.manifest
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.application
+C:\Users\Administrator\source\repos\chuankou\chuankou\obj\Debug\chuankou.csprojAssemblyReference.cache
